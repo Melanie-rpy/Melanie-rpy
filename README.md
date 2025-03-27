@@ -1,4 +1,5 @@
-## Hi there 👋
+## Silly programmer (barely)👋
+Always learning, not really sure what I'm doing yet.
 
 <!--
 **Melanie-rpy/Melanie-rpy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
